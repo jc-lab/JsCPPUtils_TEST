@@ -1,0 +1,3 @@
+[submodule "JsCPPUtils"]
+	path = JsCPPUtils
+	url = git@github.com:jc-lab/JsCPPUtils.git
